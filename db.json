@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": "UB6R_uq",
+      "name": "sandy",
+      "age": "26",
+      "address": "Farrukhabad",
+      "department": "IT",
+      "salary": "100000",
+      "marital_status": "Married"
+    },
+    {
+      "id": "28hBd_Q",
+      "name": "Ritu",
+      "age": "26",
+      "address": "Farrukhabad",
+      "department": "IT",
+      "salary": "50000",
+      "marital_status": "Married"
+    }
+  ]
+}
